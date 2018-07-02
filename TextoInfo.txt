@@ -1,0 +1,189 @@
+Se7ven Movie Script:
+
+anger =  185
+fear =  197
+surprise =  108
+sadness =  147
+joy =  147
+disgust =  144
+
+
+positives =  323
+negatives =  332
+pal_total =  4035
+
+
+*************************************
+Coco Movie Script:
+
+anger =  68
+fear =  92
+surprise =  61
+sadness =  142
+joy =  191
+disgust =  65
+
+
+positives =  336
+negatives =  211
+pal_total =  4505
+
+*************************************
+
+Ladrón de Bicicletas Movie Script:
+
+anger =  59
+fear =  69
+surprise =  46
+sadness =  59
+joy =  57
+disgust =  48
+
+
+positives =  134
+negatives =  138
+pal_total =  2274
+
+*************************************
+
+Peter Pan Book:
+
+anger =  596
+fear =  800
+surprise =  597
+sadness =  736
+joy =  880
+disgust =  613
+
+
+positives =  1644
+negatives =  1817
+pal_total =  21916
+
+*************************************
+
+Dark of Heart Book:
+
+anger =  606
+fear =  782
+surprise =  546
+sadness =  757
+joy =  569
+disgust =  438
+
+
+positives =  1475
+negatives =  1503
+pal_total =  18306
+
+*************************************
+
+Alice in Wonderland Book:
+
+anger =  118
+fear =  134
+surprise =  115
+sadness =  107
+joy =  149
+disgust =  68
+
+
+positives =  351
+negatives =  245
+pal_total =  4621
+
+*************************************
+
+The Road Book:
+
+anger =  679
+fear =  1016
+surprise =  445
+sadness =  1057
+joy =  554
+disgust =  1109
+
+
+positives =  1341
+negatives =  2493
+pal_total =  27598
+
+*************************************
+
+The Little Prince Book:
+
+anger =  120
+fear =  223
+surprise =  214
+sadness =  183
+joy =  339
+disgust =  96
+
+
+positives =  657
+negatives =  409
+pal_total =  7488
+
+*************************************
+
+Steve Jobs Speech:
+
+anger =  19
+fear =  29
+surprise =  20
+sadness =  27
+joy =  37
+disgust =  16
+
+
+positives =  68
+negatives =  48
+pal_total =  1008
+
+*************************************
+
+Nelson Mandela Speech
+
+anger =  19
+fear =  25
+surprise =  15
+sadness =  22
+joy =  35
+disgust =  6
+
+
+positives =  89
+negatives =  39
+pal_total =  806
+
+*************************************
+
+Hamlet Book:
+
+anger =  599
+fear =  825
+surprise =  576
+sadness =  748
+joy =  888
+disgust =  774
+
+
+positives =  2223
+negatives =  1636
+pal_total =  16725
+
+*************************************
+
+As you like Book:
+
+anger =  401
+fear =  446
+surprise =  437
+sadness =  392
+joy =  818
+disgust =  358
+
+
+positives =  1612
+negatives =  760
+pal_total =  11371
