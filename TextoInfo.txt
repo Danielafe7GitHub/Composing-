@@ -1,4 +1,4 @@
-Se7ven Movie Script:
+﻿Se7ven Movie Script:
 
 anger =  185
 fear =  197
@@ -187,3 +187,13 @@ disgust =  358
 positives =  1612
 negatives =  760
 pal_total =  11371
+
+
+
+
+Referencias:
+Escalas Gregorianas Emociones:
+https://www.escribircanciones.com.ar/icomo-componer-musica/570-los-modos-griegos-y-las-emociones-modo-locrio.html
+
+Escalas Mayores y Menores:
+https://blog.landr.com/es/progresiones-de-acordes/
